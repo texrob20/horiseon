@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Horiseon Webpage
 Changes to index.html on 10/28:
 - Added appropriate title "Horiseon Social Solution Services"
 - Replaced <div> with <header> element for header
