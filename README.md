@@ -2,13 +2,14 @@
 Changes to index.html on 10/28:
 - Added appropriate title "Horiseon Social Solution Services"
 - Replaced <div> with <header> element for header
+- Replaced <div> with <nav> element for header list
 - Added alt text for "Content" section pictures
 - Replaced <div> with <footer> element for footer
 
 Changes to style.css on 10/28:
-Header class removed and replaced with <header> element styling
-Updated header <div> to <nav> to support better element styling
-Footer class removed and replaced with <footer> element styling
+- Header class removed and replaced with <header> element styling
+- Updated header <div> to <nav> to support changes to index file
+- Footer class removed and replaced with <footer> element styling
 
 Hero and Content Styling
 - Updated top-level from <div> to <section> to improve logical structure
